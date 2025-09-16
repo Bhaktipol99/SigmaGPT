@@ -25,3 +25,12 @@ It allows users to interact with an intelligent chatbot, manage conversations, a
 ---
 
 ## 📂 Project Structure
+
+SigmaGPT/
+│── client/ # React frontend
+│── server/ # Node.js backend
+│── models/ # MongoDB schemas
+│── routes/ # Express routes
+│── .env # Environment variables
+│── package.json # Project metadata
+│── README.md # Documentation
